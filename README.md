@@ -37,7 +37,7 @@ This analysis is focused on US reviews for toys and uses PySpark to perform ETL 
  ![TotalUnPaid5StarReviewPercentage](https://user-images.githubusercontent.com/76926148/205463868-b793a031-4c17-4ba9-b631-f73b2153f216.PNG)
 
 ## Summary
-The review percent of paid five star reviews is lower compared to the percent of nonpaid five star reviews among th total reviewers which indicates that there is no bias.
+The review percent of paid five star reviews is lower compared to the percent of nonpaid five star reviews among the total reviewers which indicates that there is no bias.
 Additionally, we may need to perform statistical analysis to understand if the differences we see are statistically significant for the given sample size.
 
 
